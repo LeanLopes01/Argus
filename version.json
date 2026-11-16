@@ -2,8 +2,9 @@
   "version": "0.4.3",
   "versionSetup": "0.4.3",
   "repoOwner": "LeanLopes01",
-  "repoName": "NarizEletr-nico",
+  "repoName": "Argus",
   "releaseTag": "v0.4.3",
-  "zipUrl": "https://github.com/LeanLopes01/NarizEletr-nico/releases/download/Update/atualizacao.zip",
-  "installerName": "nariz-eletronico-0.4.3-setup.exe"
+  "zipUrl": "https://github.com/LeanLopes01/Argus/releases/download/Update/atualizacao.zip",
+  "installerName": "nariz-eletronico-0.4.3-setup.exe",
+  "installerUrl": "https://github.com/LeanLopes01/Argus/releases/download/Installer/nariz-eletronico-0.4.3-setup.exe"
 }

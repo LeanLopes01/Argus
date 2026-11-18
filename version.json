@@ -6,7 +6,5 @@
   "releaseTag": "v0.4.3",
   "zipUrl": "https://github.com/LeanLopes01/Argus/releases/download/Update/atualizacao.zip",
   "installerName": "nariz-eletronico-0.4.3-setup.exe",
-  "installerUrl": "https://github.com/LeanLopes01/Argus/releases/download/Installer/nariz-eletronico-0.4.3-setup.exe",
-  "installerLinuxUrl": "https://github.com/LeanLopes01/Argus/releases/download/InstallerLinux/argus-enose_0.4.3_linuxmint.deb",
-  "installerRaspberryUrl": "https://github.com/LeanLopes01/Argus/releases/download/InstallerRaspberry/argus-enose_0.4.3_raspberry.deb"
+  "installerUrl": "https://github.com/LeanLopes01/Argus/releases/download/Installer/nariz-eletronico-0.4.3-setup.exe"
 }
